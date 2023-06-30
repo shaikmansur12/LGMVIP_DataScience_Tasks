@@ -11,3 +11,6 @@ The Stock Market Is Known For Its Complex And Volatile Nature, Making Accurate P
 
 ## Task 4 - Image To Pencil Sketch
 We Need To Read The Image In RBG Format And Then Convert It To A GraySacle Image. This Will Turn An Image Into A Classic Black And White Photo. Then The Next Thing To Do Is Invert The GrayScale Image. Then We Can Finally Create The Pencil Sketch By Using The CV2 Library In Python 
+
+## Task 6 - Prediction Using Decision Tree Classification
+Decision tree algorithms are commonly used in machine learning for both classification and regression tasks. They make predictions by creating a tree-like model of decisions and their possible consequences.
